@@ -1,2 +1,4 @@
 # hellow-world
-hola mundo
+hola mundoHola a todo mundo, pruebo una nueva forma de programar
+que aun no entiendo bien
+espero me resulte paa conseguir un mejor trabajo.
